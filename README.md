@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Gandara.
 
-Atualmente eu estou:
 - 🕺🏿 Estudante de Dev Web pela Gama Academy
 - 🧑🏿‍🏫 Estudante de Arquitetura e Urbanismo pela UFG
 - 😄 Pronouns: ele/dele
