@@ -2,7 +2,7 @@
 
 Atualmente eu estou:
 - 🕺🏿 Estudante de Dev Web pela Gama Academy
-- 🧑🏿‍🏫 Estudante de Arquiteruta e Ubanismo pela UFG
+- 🧑🏿‍🏫 Estudante de Arquitetura e Urbanismo pela UFG
 - 😄 Pronouns: ele/dele
 
 <div align="center">
