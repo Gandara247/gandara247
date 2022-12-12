@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Gandara.
 
 Atualmente eu estou:
-- 🕺🏿 Estudando Dev Web pela Gama Academy
-- 🧑🏿‍🏫 Estudando Arquiteruta e Ubanismo pela UFG
+- 🕺🏿 Estudante de Dev Web pela Gama Academy
+- 🧑🏿‍🏫 Estudante de Arquiteruta e Ubanismo pela UFG
 - 😄 Pronouns: ele/dele
 
 <div align="center">
