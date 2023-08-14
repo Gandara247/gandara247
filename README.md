@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gandara.
 
-- 🕺🏿 Estudante de Dev Web pela Gama Academy
+- 🕺🏿 Estudante de Dev Web 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
