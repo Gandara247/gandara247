@@ -1,7 +1,23 @@
+
+![Cyberpunk Glitch Logo reveal2](https://github.com/Gandara247/gandara247/assets/120376565/b20a230a-b5f5-4fe5-8167-07c538aca4d5)
 ## Olá! Eu sou o Gandara.
 
-- 🕺🏿 Estudante de Dev Web 
-- 😄 Pronouns: ele/dele
+# Bem-vindo ao meu perfil do GitHub! 👋
+
+Sou um estudante de Arquitetura e Urbanismo pela Universidade Federal de Goiás (UFG) que descobriu sua verdadeira paixão por programação e decidiu fazer a transição para a área de tecnologia.
+
+**Sobre Mim:**
+
+- 💻 Concluí o curso de Full Stack Web Development, com mais de 810 horas de treinamento, aprendendo tecnologias como Java, JavaScript, TypeScript, HTML, CSS, Angular e Bootstrap.
+- 🚀 Atualmente, estou mergulhado em estudos de DevOps pela Ada Tech e sou aluno do programa de Desenvolvedor Back end na Cubos Academy.
+- 📚 Também estou concluindo o curso CS50 de Harvard para aprimorar minhas habilidades em ciência da computação.
+- 🌐 Possuo um nível B2 de proficiência em inglês e estou comprometido em alcançar a fluência.
+- 💪 Acredito que com esforço e dedicação, não há limite para o que posso aprender.
+- 😄 Pronouns: ele/dele.<br><br>
+Estou empolgado para continuar crescendo, explorando novas oportunidades e contribuindo para projetos incríveis na área de tecnologia. 🧑🏿‍💻🚀
+
+Fique à vontade para explorar meus repositórios e entrar em contato! Vamos colaborar e aprender juntos. 📫
+
 
 <div align="center">
   <a href="https://github.com/Gandara247">
@@ -25,6 +41,9 @@
   <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg">  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">  
          
   ##
   
